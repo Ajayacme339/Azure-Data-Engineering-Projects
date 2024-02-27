@@ -15,5 +15,17 @@ data taechnology to ingest,process,transform and load data into datawarehouse.
 ![Screenshot 2024-02-12 201402](https://github.com/Ajayacme339/AzureDataEngineeringProjects/assets/60890279/0a1c5fa7-dd67-4dbc-8d5d-cd29de8a468e)
 
 ### Modern Data Stack Technology used 
-# Python
+ 1.Azure Data Factory - Data Orchestration and Ingestion from Githbu API - Azure DataLake Gen2 Storage.Pipeline building to copy data to Datalake
+ 2.Azure Data Lake Storage - Data Storage for 2021 Olympics csv Dataset . 2 Seperate Container were used to store raw and transformed 2021 Olympics csv Dataset
+ 3.Azure Databricks - Data Processing and Tranformation was done on Azure Databricks Platform 
+ 4.Python Pandas Library - Data Cleansing and Transformation 
+ 5.Apache Spark - Data Transformation and copy back transformed data to Datalake
+ 6.Snowflake - Storage and running analytical query on 2021 Olympics csv Dataset
+
+### Datset Used for This Project can be Found at Below Mentioned Link
+  - https://raw.githubusercontent.com/Ajayacme339/AzureDataEngineeringProjects/main/OLYMPICS-MEDAL-DATA-ENGINEERING-PROJECTS/Athletes.csv
+
+
+
+ 
 
