@@ -27,7 +27,7 @@ data taechnology to ingest,process,transform and load data into datawarehouse.
    
  - Snowflake - Storage and running analytical query on 2021 Olympics csv Dataset
 
-### Datset Used for This Project can be Found at Below Mentioned Link
+### Datset Used for This Project can be Found at Below Mentioned Link:
   - https://raw.githubusercontent.com/Ajayacme339/AzureDataEngineeringProjects/main/OLYMPICS-MEDAL-DATA-ENGINEERING-PROJECTS/Athletes.csv
   - https://raw.githubusercontent.com/Ajayacme339/AzureDataEngineeringProjects/main/OLYMPICS-MEDAL-DATA-ENGINEERING-PROJECTS/Coaches.csv
   - https://raw.githubusercontent.com/Ajayacme339/AzureDataEngineeringProjects/main/OLYMPICS-MEDAL-DATA-ENGINEERING-PROJECTS/EntriesGender.csv
